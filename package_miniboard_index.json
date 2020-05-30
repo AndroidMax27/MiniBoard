@@ -9,7 +9,7 @@
       "platforms":
       [
         {
-          "name": "MiniBoards",
+          "name": "MiniBoard",
           "architecture": "samd",
           "version": "1.1.0",
           "category": "Contributed",
