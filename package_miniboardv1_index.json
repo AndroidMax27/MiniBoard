@@ -15,8 +15,6 @@
           "category": "Contributed",
           "url": "https://github.com/AndroidMax27/MiniBoard/blob/master/MiniBoard_1.1.0.zip",
           "archiveFileName": "MiniBoard_1.1.0.zip",
-          "checksum": "SHA-256:77A9B7B6475842FEEE0F6E725550ECAADF68DF23FA9D096F555E87A266C35852",
-          "size": "4199847",
           "boards": [
             {
               "name": "MiniBoard V1"
