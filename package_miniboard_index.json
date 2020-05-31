@@ -1,0 +1,60 @@
+{
+  "packages":
+  [
+    {
+      "name": "MiniBoard",
+      "maintainer": "Blinkit",
+      "websiteURL": "www.blinkit.com",
+      "email" : "uriel.rdz15@gmail.com",
+      "platforms":
+      [
+        {
+          "name": "MiniBoards",
+          "architecture": "samd",
+          "version": "1.1.0",
+          "category": "Contributed",
+          "url": "https://github.com/AndroidMax27/MiniBoard/blob/master/MiniBoard_1.1.0.zip",
+          "archiveFileName": "MiniBoard_1.1.0.zip",
+          "checksum": "SHA-256:77A9B7B6475842FEEE0F6E725550ECAADF68DF23FA9D096F555E87A266C35852",
+          "size": "(4199847",
+          "boards": [
+            {
+              "name": "MiniBoard V1"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino9"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        }
+      ],
+      "tools":
+      [
+      ]
+    }
+  ]
+}
